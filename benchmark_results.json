@@ -1,0 +1,6 @@
+{
+  "block_size": 64,
+  "matrix_size": 512,
+  "naive_time_sec": 2.312892328,
+  "tiled_time_sec": 4.24739073
+}
